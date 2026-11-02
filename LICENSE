@@ -1,0 +1,77 @@
+ACADEMIC REPRODUCTION LICENSE
+Version 1.0
+
+Copyright (c) 2026 the respective copyright holders.
+
+1. Scope
+
+This custom license applies only to original contributions in this package
+whose copyright holders make them available under these terms (the
+"Materials"). These may include software, model weights, original data,
+configuration, numerical results, plots and documentation. It grants only
+rights that those copyright holders are entitled to grant. Third-party
+materials and rights are addressed separately in section 5.
+
+2. Permission for academic reproduction
+
+Subject to these terms, permission is granted, without a fee or an individual
+application, to download, make working copies of, inspect, run and modify the
+Materials solely for academic reproduction.
+
+"Academic reproduction" means non-commercial scholarly work directed at
+reproducing, checking or independently validating the methods and numerical
+findings supported by this package. It includes adapting code to a computing
+environment, adjusting parameters, retraining models, rerunning simulations,
+recomputing statistics and regenerating plots to carry out that verification.
+
+You may report your verification methods and findings in academic reports or
+publications, with attribution under section 3. This permission does not
+authorize redistribution of the original or modified Materials.
+
+3. Conditions
+
+Retain this license and any applicable copyright, attribution and third-party
+notices in copies or modifications made under this license. Clearly identify
+changes when reporting verification findings and do not imply endorsement
+by the original contributors.
+
+When reporting work performed using the Materials, acknowledge the source
+repository or package and the version or commit used. Cite any associated
+publication identified by the repository, where available.
+
+4. Other uses require separate permission
+
+This license does not grant permission for commercial use, deployment in
+products or services, research beyond the academic reproduction defined
+above, or redistribution, republication, sublicensing or sale of the original
+or modified Materials, including model weights and datasets. Obtain separate
+written permission from the relevant copyright holders for such uses. A
+request may be directed to the repository owner for referral where needed.
+
+All rights not expressly granted here are reserved. Nothing in this license
+limits rights available independently under applicable law, an applicable
+hosting platform's terms, or a separate license. In particular, this license
+does not override viewing or forking rights independently granted under
+GitHub's terms for a public repository.
+
+5. Third-party materials
+
+Third-party materials remain subject to their own terms. This license does
+not relicense them, remove attribution or other obligations, or grant rights
+that their original providers have not granted.
+
+Hazard inputs originate from the Hong Kong Observatory. Infrastructure-derived
+inputs originate from OpenStreetMap contributors under the Open Database
+Licence. For files combining original contributions with third-party-derived
+content, this license applies only to the original contributions to the extent
+they can be licensed separately; obligations attached to the third-party
+content remain applicable. Dependency software is governed by its own
+licenses. Consult the README and applicable source terms for these inputs.
+
+6. No warranty
+
+To the extent permitted by applicable law, the Materials are provided as is,
+without warranties of any kind, including warranties of accuracy, fitness for
+a particular purpose or non-infringement. To the same extent, the copyright
+holders and contributors are not liable for claims, losses or damages arising
+from use of the Materials. No support or maintenance is promised.
