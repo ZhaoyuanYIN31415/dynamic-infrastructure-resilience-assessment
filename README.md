@@ -1,6 +1,6 @@
 # Reproducibility
 
-Numerical data, model weights, simulation/analysis code and result plots.
+Numerical data, model weights, simulation/analysis code and result plots. Download reproducibility.zip from Releases and extract it before following the instructions below.
 
 ## Contents
 
